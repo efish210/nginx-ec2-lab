@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Shopping List</title>
+<link rel="stylesheet" href="assets/css/bootstrap.css">
+</head>
+<body>
+	<div class="row">
+		<div class="col-md-12">
+			<div class="panel panel-default">
+				<div class="panel-heading">
+					<h3 class="panel-title">Shopping List Items:  <span id="counter">1</span></h3>
+				</div>
+				
+			    <div class="panel-body" id="shoppingList">
+					<div class="alert alert-info">Tomatoes
+						<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+					</div>
+				</div>
+				<div class="panel-footer">
+					<div class="form-group">
+						<label for="newItem">New Shopping List Item:</label>
+						<input type="text" id="newItem">
+					</div>
+					<div class="form-group">
+						<button id="addToList" type="button" class="btn btn-success">Add Item</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
+<script src="assets/js/shopping-list.js"></script>
