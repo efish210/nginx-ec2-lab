@@ -1,0 +1,50 @@
+/* CSS Document */
+
+
+.menu:link, .menu:visited {
+	background-color:#f44336;
+	color:white;
+	padding:40px;
+	text-align: center;
+	text-decoration:none;
+	display:inline-block;
+}
+	
+.menu:hover, .menu:active {
+	background-color: #0000CD;
+}
+	
+.pageHeader{
+	background-color: #1F4E79
+}
+
+.pageHeader h2{
+	text-align: center;
+	color: white;
+	padding:40px;
+	margin: 0;
+}
+
+.upperTable{
+	width:100%;
+	background-color: #F2F2F2;
+	border-collapse: collapse;
+	border:0;
+}
+
+.siteHeader{
+	background-color:  #8FD9FB;
+	text-align:center;
+}
+.siteHeader h1{
+	margin:40px;
+}
+
+
+.lowerTable{
+	width: 100%;
+	background-color: #F2F2F2;
+	border-collapse: collapse;
+	border: 0;
+}
+
