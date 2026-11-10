@@ -1,6 +1,6 @@
 # EC2-lab - Website on AWS EC2 + nginx
 
-A personal website built and deployed incrementally over a semester (CS 4413 - Web Technologies, Spring 2026). It started as a static HTML page on the default nginx root of an AWS EC2 instance. Twenty iterations later it was a PHP/MySQL site with a database driven CMS, server side form validation, an AJAX refreshed results view, and account registration and login.
+A personal website built and deployed incrementally over a semester (CS 4413, Web Technologies, Spring 2026). It started as a static HTML page on the default nginx root of an AWS EC2 instance. Twenty iterations later it was a PHP/MySQL site with a database driven CMS, server side form validation, an AJAX refreshed results view, and account registration and login.
 
 
 
