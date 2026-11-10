@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="_alerts.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321638188006" remote="134225138990000000" Dst="2" />
+<file name="_badges.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321638223766" remote="134225138990000000" Dst="2" />
+<file name="_breadcrumbs.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321638263760" remote="134225138990000000" Dst="2" />
+<file name="_button-groups.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321638294134" remote="134225138990000000" Dst="2" />
+<file name="_buttons.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321638324189" remote="134225138990000000" Dst="2" />
+<file name="_carousel.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321638354195" remote="134225138990000000" Dst="2" />
+<file name="_close.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321638400678" remote="134225138990000000" Dst="2" />
+<file name="_code.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321638430685" remote="134225138990000000" Dst="2" />
+<file name="_component-animations.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321638460686" remote="134225138990000000" Dst="2" />
+<file name="_dropdowns.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321638490676" remote="134225139000000000" Dst="2" />
+<file name="_forms.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321638520828" remote="134225139000000000" Dst="2" />
+<file name="_glyphicons.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321638560876" remote="134225139000000000" Dst="2" />
+<file name="_grid.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321638590874" remote="134225139000000000" Dst="2" />
+<file name="_input-groups.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321638622679" remote="134225139000000000" Dst="2" />
+<file name="_jumbotron.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321638642678" remote="134225139010000000" Dst="2" />
+<file name="_labels.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321638672677" remote="134225139010000000" Dst="2" />
+<file name="_list-group.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321638712990" remote="134225139010000000" Dst="2" />
+<file name="_media.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321638743004" remote="134225139010000000" Dst="2" />
+<file name="_mixins.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321638772980" remote="134225139010000000" Dst="2" />
+<file name="_modals.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321638805309" remote="134225139010000000" Dst="2" />
+<file name="_navbar.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321638835306" remote="134225139020000000" Dst="2" />
+<file name="_navs.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321638875938" remote="134225139020000000" Dst="2" />
+<file name="_normalize.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321638911028" remote="134225139020000000" Dst="2" />
+<file name="_pager.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321638941030" remote="134225139020000000" Dst="2" />
+<file name="_pagination.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321638971032" remote="134225139020000000" Dst="2" />
+<file name="_panels.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321639006121" remote="134225139030000000" Dst="2" />
+<file name="_popovers.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321639031220" remote="134225139030000000" Dst="2" />
+<file name="_print.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321639071241" remote="134225139030000000" Dst="2" />
+<file name="_progress-bars.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321639102071" remote="134225139030000000" Dst="2" />
+<file name="_responsive-embed.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321639132073" remote="134225139030000000" Dst="2" />
+<file name="_responsive-utilities.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321639162062" remote="134225139040000000" Dst="2" />
+<file name="_scaffolding.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321639202374" remote="134225139040000000" Dst="2" />
+<file name="_tables.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321639232373" remote="134225139040000000" Dst="2" />
+<file name="_theme.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321639262377" remote="134225139040000000" Dst="2" />
+<file name="_thumbnails.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321639307444" remote="134225139040000000" Dst="2" />
+<file name="_tooltip.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321639337471" remote="134225139040000000" Dst="2" />
+<file name="_type.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321639372567" remote="134225139050000000" Dst="2" />
+<file name="_utilities.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321639407697" remote="134225139050000000" Dst="2" />
+<file name="_variables.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321639447682" remote="134225139050000000" Dst="2" />
+<file name="_wells.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321639477683" remote="134225139050000000" Dst="2" />
+</dwsync>

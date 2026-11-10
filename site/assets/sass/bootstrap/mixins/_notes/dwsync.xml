@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="_alerts.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321639547922" remote="134225138920000000" Dst="2" />
+<file name="_background-variant.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321639592961" remote="134225138920000000" Dst="2" />
+<file name="_border-radius.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321639623027" remote="134225138930000000" Dst="2" />
+<file name="_buttons.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321639663025" remote="134225138930000000" Dst="2" />
+<file name="_center-block.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321639688080" remote="134225138930000000" Dst="2" />
+<file name="_clearfix.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321639723332" remote="134225138930000000" Dst="2" />
+<file name="_forms.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321639753340" remote="134225138930000000" Dst="2" />
+<file name="_gradients.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321639793333" remote="134225138930000000" Dst="2" />
+<file name="_grid-framework.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321639823856" remote="134225138940000000" Dst="2" />
+<file name="_grid.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321639843841" remote="134225138940000000" Dst="2" />
+<file name="_hide-text.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321639892581" remote="134225138940000000" Dst="2" />
+<file name="_image.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321639932663" remote="134225138940000000" Dst="2" />
+<file name="_labels.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321639962661" remote="134225138950000000" Dst="2" />
+<file name="_list-group.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321639992651" remote="134225138950000000" Dst="2" />
+<file name="_nav-divider.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321640020343" remote="134225138950000000" Dst="2" />
+<file name="_nav-vertical-align.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321640060407" remote="134225138950000000" Dst="2" />
+<file name="_opacity.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321640090425" remote="134225138960000000" Dst="2" />
+<file name="_pagination.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321640112059" remote="134225138960000000" Dst="2" />
+<file name="_panels.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321640142069" remote="134225138960000000" Dst="2" />
+<file name="_progress-bar.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321640172055" remote="134225138960000000" Dst="2" />
+<file name="_reset-filter.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321640202567" remote="134225138960000000" Dst="2" />
+<file name="_reset-text.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321640232586" remote="134225138960000000" Dst="2" />
+<file name="_resize.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321640262573" remote="134225138970000000" Dst="2" />
+<file name="_responsive-visibility.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321640292571" remote="134225138970000000" Dst="2" />
+<file name="_size.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321640317698" remote="134225138970000000" Dst="2" />
+<file name="_tab-focus.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321640337695" remote="134225138970000000" Dst="2" />
+<file name="_table-row.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321640372860" remote="134225138980000000" Dst="2" />
+<file name="_text-emphasis.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321640397933" remote="134225138980000000" Dst="2" />
+<file name="_text-overflow.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321640427971" remote="134225138980000000" Dst="2" />
+<file name="_vendor-prefixes.scss" server="ec2-18-118-170-40.us-east-2.compute.amazonaws.com//var/www/html/" local="134172321640447970" remote="134225138980000000" Dst="2" />
+</dwsync>
